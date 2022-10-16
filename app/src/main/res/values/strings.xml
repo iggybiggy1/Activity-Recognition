@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity Classification</string>
+    <string name="activity_name">Activity name</string>
+    <string name="xx_yy">XX:YY</string>
+</resources>
